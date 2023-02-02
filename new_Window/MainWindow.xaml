@@ -1,0 +1,41 @@
+﻿<Window x:Class="new_Window.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:new_Window"
+        mc:Ignorable="d"
+        Title="Крестики нолики" Height="404" Width="250" Background="#FFFCFCFC">
+
+    <Grid  x:Name="XandO" Background="Bisque" AutomationProperties.Name="" Margin="1,0,-3,2" Width="244" Height="404"  >
+        <Grid.Style>
+            <Style/>
+        </Grid.Style>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="64*" />
+            <RowDefinition Height="80*" />
+            <RowDefinition Height="80*" />
+            <RowDefinition Height="79*" />
+            <RowDefinition Height="84*" />
+            <RowDefinition Height="112*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="77*" />
+            <ColumnDefinition Width="82*" />
+            <ColumnDefinition Width="76*" />
+            <ColumnDefinition Width="9*" />
+        </Grid.ColumnDefinitions>
+        <TextBlock x:Name="Txt" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" FontFamily="Arial Narrow" FontSize="20" Text="" Margin="1,1,1,65" Grid.RowSpan="2"/>
+        <TextBlock x:Name="T" Grid.Row="0" Grid.Column="2"  FontFamily="Arial Narrow" FontSize="20" Text="" Margin="1,1,1,1"/>
+        <Button x:Name="B1" Content="" Grid.Column="0" Click="Button_Click_2" Margin="1,1,1,1" Grid.Row="1"  />
+        <Button Content="Start" Background="BurlyWood" Grid.Column="0" Grid.Row="3" Grid.ColumnSpan="3" Margin="0,64,0,0" Grid.RowSpan="2" Click="Button_Click"></Button>
+        <Button x:Name="B2" Content="" Grid.Column="1" Click="Button_Click_2" Margin="1,1,1,1" Grid.Row="1"  />
+        <Button x:Name="B3" Content="" Grid.Column="2" Click="Button_Click_2" Margin="1,1,1,1" Grid.Row="1"  />
+        <Button x:Name="B4" Content="" Grid.Column="0" Click="Button_Click_2" Margin="1,1,1,1" Grid.Row="2"  />
+        <Button x:Name="B5" Content="" Click="Button_Click_2" Margin="1,1,1,1" Grid.Row="2" Grid.Column="1"  />
+        <Button x:Name="B6" Content="" Grid.Column="2" Click="Button_Click_2" Margin="1,1,1,1" Grid.Row="2"  />
+        <Button x:Name="B7" Content="" Grid.Column="0" Click="Button_Click_2" Margin="1,1,1,1" Grid.Row="3"  />
+        <Button x:Name="B8" Content="" Click="Button_Click_2" Margin="1,1,1,1" Grid.Row="3" Grid.Column="1"  />
+        <Button x:Name="B9" Content="" Grid.Column="2" Click="Button_Click_2" Margin="1,1,1,1" Grid.Row="3"  />
+    </Grid>
+</Window>

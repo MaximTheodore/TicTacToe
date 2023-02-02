@@ -1,0 +1,63 @@
+D:\new_Window\new_Window\bin\Debug\net6.0-windows\new_Window.exe
+D:\new_Window\new_Window\bin\Debug\net6.0-windows\new_Window.deps.json
+D:\new_Window\new_Window\bin\Debug\net6.0-windows\new_Window.runtimeconfig.json
+D:\new_Window\new_Window\bin\Debug\net6.0-windows\new_Window.dll
+D:\new_Window\new_Window\bin\Debug\net6.0-windows\new_Window.pdb
+D:\new_Window\new_Window\obj\Debug\net6.0-windows\new_Window.csproj.AssemblyReference.cache
+D:\new_Window\new_Window\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\new_Window\new_Window\obj\Debug\net6.0-windows\App.g.cs
+D:\new_Window\new_Window\obj\Debug\net6.0-windows\new_Window_MarkupCompile.cache
+D:\new_Window\new_Window\obj\Debug\net6.0-windows\new_Window_MarkupCompile.lref
+D:\new_Window\new_Window\obj\Debug\net6.0-windows\MainWindow.baml
+D:\new_Window\new_Window\obj\Debug\net6.0-windows\new_Window.g.resources
+D:\new_Window\new_Window\obj\Debug\net6.0-windows\new_Window.GeneratedMSBuildEditorConfig.editorconfig
+D:\new_Window\new_Window\obj\Debug\net6.0-windows\new_Window.AssemblyInfoInputs.cache
+D:\new_Window\new_Window\obj\Debug\net6.0-windows\new_Window.AssemblyInfo.cs
+D:\new_Window\new_Window\obj\Debug\net6.0-windows\new_Window.csproj.CoreCompileInputs.cache
+D:\new_Window\new_Window\obj\Debug\net6.0-windows\new_Window.dll
+D:\new_Window\new_Window\obj\Debug\net6.0-windows\refint\new_Window.dll
+D:\new_Window\new_Window\obj\Debug\net6.0-windows\new_Window.pdb
+D:\new_Window\new_Window\obj\Debug\net6.0-windows\new_Window.genruntimeconfig.cache
+D:\new_Window\new_Window\obj\Debug\net6.0-windows\ref\new_Window.dll
+D:\c#\new_Window\new_Window\bin\Debug\net6.0-windows\new_Window.exe
+D:\c#\new_Window\new_Window\bin\Debug\net6.0-windows\new_Window.deps.json
+D:\c#\new_Window\new_Window\bin\Debug\net6.0-windows\new_Window.runtimeconfig.json
+D:\c#\new_Window\new_Window\bin\Debug\net6.0-windows\new_Window.dll
+D:\c#\new_Window\new_Window\bin\Debug\net6.0-windows\new_Window.pdb
+D:\c#\new_Window\new_Window\obj\Debug\net6.0-windows\new_Window.csproj.AssemblyReference.cache
+D:\c#\new_Window\new_Window\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\c#\new_Window\new_Window\obj\Debug\net6.0-windows\App.g.cs
+D:\c#\new_Window\new_Window\obj\Debug\net6.0-windows\new_Window_MarkupCompile.cache
+D:\c#\new_Window\new_Window\obj\Debug\net6.0-windows\new_Window_MarkupCompile.lref
+D:\c#\new_Window\new_Window\obj\Debug\net6.0-windows\MainWindow.baml
+D:\c#\new_Window\new_Window\obj\Debug\net6.0-windows\new_Window.g.resources
+D:\c#\new_Window\new_Window\obj\Debug\net6.0-windows\new_Window.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\new_Window\new_Window\obj\Debug\net6.0-windows\new_Window.AssemblyInfoInputs.cache
+D:\c#\new_Window\new_Window\obj\Debug\net6.0-windows\new_Window.AssemblyInfo.cs
+D:\c#\new_Window\new_Window\obj\Debug\net6.0-windows\new_Window.csproj.CoreCompileInputs.cache
+D:\c#\new_Window\new_Window\obj\Debug\net6.0-windows\new_Window.dll
+D:\c#\new_Window\new_Window\obj\Debug\net6.0-windows\refint\new_Window.dll
+D:\c#\new_Window\new_Window\obj\Debug\net6.0-windows\new_Window.pdb
+D:\c#\new_Window\new_Window\obj\Debug\net6.0-windows\new_Window.genruntimeconfig.cache
+D:\c#\new_Window\new_Window\obj\Debug\net6.0-windows\ref\new_Window.dll
+D:\2 курс\c#\new_Window\new_Window\bin\Debug\net6.0-windows\new_Window.exe
+D:\2 курс\c#\new_Window\new_Window\bin\Debug\net6.0-windows\new_Window.deps.json
+D:\2 курс\c#\new_Window\new_Window\bin\Debug\net6.0-windows\new_Window.runtimeconfig.json
+D:\2 курс\c#\new_Window\new_Window\bin\Debug\net6.0-windows\new_Window.dll
+D:\2 курс\c#\new_Window\new_Window\bin\Debug\net6.0-windows\new_Window.pdb
+D:\2 курс\c#\new_Window\new_Window\obj\Debug\net6.0-windows\new_Window.csproj.AssemblyReference.cache
+D:\2 курс\c#\new_Window\new_Window\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\2 курс\c#\new_Window\new_Window\obj\Debug\net6.0-windows\App.g.cs
+D:\2 курс\c#\new_Window\new_Window\obj\Debug\net6.0-windows\new_Window_MarkupCompile.cache
+D:\2 курс\c#\new_Window\new_Window\obj\Debug\net6.0-windows\new_Window_MarkupCompile.lref
+D:\2 курс\c#\new_Window\new_Window\obj\Debug\net6.0-windows\MainWindow.baml
+D:\2 курс\c#\new_Window\new_Window\obj\Debug\net6.0-windows\new_Window.g.resources
+D:\2 курс\c#\new_Window\new_Window\obj\Debug\net6.0-windows\new_Window.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 курс\c#\new_Window\new_Window\obj\Debug\net6.0-windows\new_Window.AssemblyInfoInputs.cache
+D:\2 курс\c#\new_Window\new_Window\obj\Debug\net6.0-windows\new_Window.AssemblyInfo.cs
+D:\2 курс\c#\new_Window\new_Window\obj\Debug\net6.0-windows\new_Window.csproj.CoreCompileInputs.cache
+D:\2 курс\c#\new_Window\new_Window\obj\Debug\net6.0-windows\new_Window.dll
+D:\2 курс\c#\new_Window\new_Window\obj\Debug\net6.0-windows\refint\new_Window.dll
+D:\2 курс\c#\new_Window\new_Window\obj\Debug\net6.0-windows\new_Window.pdb
+D:\2 курс\c#\new_Window\new_Window\obj\Debug\net6.0-windows\new_Window.genruntimeconfig.cache
+D:\2 курс\c#\new_Window\new_Window\obj\Debug\net6.0-windows\ref\new_Window.dll
